@@ -29,4 +29,4 @@ To extract key details of Airbnb listings in Mumbai such as pricing, location, r
 
 ## Note
 - This project is created for educational and learning purposes.
-- Data scraped is publicly available.
+- The CSV represents data scraped at a specific point in time and Re-running the scraper may produce different results due to website changes
